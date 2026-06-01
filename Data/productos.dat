@@ -1,0 +1,23 @@
+RDIE,Bistec Diezmillo,180.00,50.000,Res,KG
+RAMA,Arrachera Marinada,320.00,50.000,Res,KG
+RSIR,Molida Sirloin,155.00,50.000,Res,KG
+RTBO,T-Bone,340.00,50.000,Res,KG
+RPUL,Pulpa de Res,195.00,50.000,Res,KG
+RBPI,Bistec Picado,225.00,50.000,Res,KG
+RFAL,Carne para Deshebrar,205.00,50.000,Res,KG
+RMOL,Molida Comercial,165.00,50.000,Res,KG
+RCSH,Chamberete sin Hueso,195.00,50.000,Res,KG
+RCCH,Chamberete con Hueso,145.00,50.000,Res,KG
+RRET,Retazo con Hueso,125.00,50.000,Res,KG
+RGRA,Grasa de Res,48.00,50.000,Res,KG	
+CAHU,Chuleta Ahumada,175.00,50.000,Cerdo,KG
+CLOM,Lomo de Cerdo,190.00,50.000,Cerdo,KG
+CMIL,Milanesa de Cerdo,165.00,50.000,Cerdo,KG
+CCOS,Costilla de Cerdo,145.00,50.000,Cerdo,KG
+CNAT,Chuleta Natural,135.00,50.000,Cerdo,KG
+CGRA,Grasa,40.00,50.000,Cerdo,KG
+CPSG,Piel de Cerdo s/g,80.00,50.000,Cerdo,KG
+CPCG,Piel de Cerdo c/g,65.00,50.000,Cerdo,KG
+OCHI,Chicharrón,240.00,50.000,Otros,KG
+OLON,Longaniza,130.00,50.000,Otros,KG
+OMAN,Manteca,60.00,10.000,Otros,KG
